@@ -1,3 +1,3 @@
 # LoremuelPublicRemoteRepo1
 # My Name is Loremuel Gadrinab
-# This is for local only
+# I am Jobert Galamiton. A collaborator of this repo. My only contribution is to update this README file. 
